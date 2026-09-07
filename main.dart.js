@@ -86626,7 +86626,7 @@ r=A.ig(this.a.toLowerCase(),r,"")
 s=A.cg("[^a-z0-9]+",!1)
 r=A.ig(r,s,"-")
 s=A.cg("^-+|-+$",!1)
-return"https://moviesdatamil.co/uploads/posters/"+A.ig(r,s,"")+".jpg"},
+return"https://moviezda.com/uploads/posters/"+A.ig(r,s,"")+".jpg"},
 he(){var s,r=A.o(t.N,t.z)
 r.m(0,"title",this.a)
 r.m(0,"slug",this.b)
